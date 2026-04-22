@@ -9,7 +9,7 @@ Cross-platform desktop helper that lets **Part3D on iPad** send STL files direct
 | Platform    | Notes                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
 | **macOS**   | Apple Silicon (M-series) only. macOS 10.15 (Catalina) through Sequoia. |
-| **Windows** | Coming Soon.                                                           |
+| **Windows** | Windows 10 or later. x64                                               |
 | **Linux**   | **AppImage**. Requires GTK and `libappindicator` (see Linux notes).    |
 
 Install and run the Bridge on your computer. It sits in the system tray and waits for Part3D on your iPad to connect.
